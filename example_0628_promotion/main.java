@@ -5,8 +5,9 @@ import java.util.Scanner;
 import example_0628_promotion.slime.*;
 import example_0628_promotion.potion.*;
 import example_0628_promotion.warrior.*;
-import package0007_sandwich.*;
-import package0010_exam.childClass_sandwich_anotherPackage;
+import example_0628_promotion.warrior.package0005_invenItemOverridingExample.*;
+import example_0628_promotion.package0006_inheritanceExample.*;
+import example_0628_promotion.package0007_sandwich.*;
 
 import example_0628_promotion.package0008_promotionExample.*;
 
