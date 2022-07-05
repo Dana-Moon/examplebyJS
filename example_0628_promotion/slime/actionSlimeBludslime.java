@@ -1,4 +1,4 @@
-package example_0629.package0004_gameSlimeLand.slime;
+package example_0628_promotion.slime;
 
 public class actionSlimeBludslime extends actionSlime {
 

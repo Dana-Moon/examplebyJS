@@ -1,13 +1,10 @@
 package example_0628_promotion;
 
-import java.util.Random;
 import java.util.Scanner;
 
-import package0004_gameSlimeLand.*;
-import package0004_gameSlimeLand.inven.potion.RedPotion;
-import package0005_invenItemOverridingExample.*;
-import package0006_inheritanceExample.*;
-
+import example_0628_promotion.slime.*;
+import example_0628_promotion.potion.*;
+import example_0628_promotion.warrior.*;
 import package0007_sandwich.*;
 import package0010_exam.childClass_sandwich_anotherPackage;
 

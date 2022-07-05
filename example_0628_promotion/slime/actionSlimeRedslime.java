@@ -1,6 +1,6 @@
-package example_0629.package0004_gameSlimeLand.slime;
+package example_0628_promotion.slime;
 
-public class actionSlimeRedslime extends actionSlime{
+public class actionSlimeRedslime extends actionSlime {
 
     @Override
     public void playAction() {

@@ -1,4 +1,4 @@
-package example_0629.package0004_gameSlimeLand.slime;
+package example_0628_promotion.slime;
 
 public class NormalSlime {
     //우리의 노멀슬라임은 lv1의 갸냘픈 슬라임입니다

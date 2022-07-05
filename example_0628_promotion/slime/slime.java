@@ -1,6 +1,6 @@
 package example_0628_promotion.slime;
 
-public class slime_notUse {
+public class slime {
     //필드값 (슬라임의 hp, mp...)
 
     public String name;
@@ -9,13 +9,13 @@ public class slime_notUse {
     
 
     //생성자 (슬라임 클래스를 인스턴스로 만들 때 매개변수를 받아서 객체 만들기)
-    public slime_notUse() {
+    public slime() {
         this.name = "평범한 슬라임";
         this.hp = 10;
         this.mp = 0;
     }
     
-    public slime_notUse(String input_name, int input_hp, int input_mp) {
+    public slime(String input_name, int input_hp, int input_mp) {
         this.name = input_name;
         this.hp = input_hp;
         this.mp = input_mp;

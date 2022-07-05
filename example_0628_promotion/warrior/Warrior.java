@@ -1,4 +1,4 @@
-package example_0629.package0004_gameSlimeLand;
+package example_0628_promotion.warrior;
 
 public class Warrior {
     public String name;

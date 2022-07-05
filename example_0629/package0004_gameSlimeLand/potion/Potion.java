@@ -1,4 +1,4 @@
-package example_0628_promotion.potion;
+package example_0629.package0004_gameSlimeLand.potion;
 
 //부모 클래스 생성
 public class Potion {

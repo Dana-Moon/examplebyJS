@@ -1,4 +1,4 @@
-package example_0628_promotion.potion;
+package example_0629.package0004_gameSlimeLand.potion;
 
 public class RedPotion extends Potion {
     //포션의 효과 증폭 수치
