@@ -1,7 +1,5 @@
 package example_0628_promotion.package0007_sandwich;
 
-import example_0628_promotion.package0007_sandwich.superClass_sandwich;
-
 public class childClass_sandwich_anotherPackage extends superClass_sandwich {
 
     protected String material_001;

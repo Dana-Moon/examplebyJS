@@ -1,7 +1,5 @@
 package example_0628_promotion.package0007_sandwich;
 
-import example_0628_promotion.package0007_sandwich.childClass_sandwich_anotherPackage;
-
 public class blueberrysand extends childClass_sandwich_anotherPackage{
 
         //이렇게 만들다 보니 다른 샌드위치와 차이가 없네요..

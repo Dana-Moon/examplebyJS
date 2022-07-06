@@ -31,7 +31,7 @@ public abstract class JoonSeok {
                 System.out.println("바뀐 채널: " + CHANNEL[i]);
             }
             if (time % 11 == 0) {
-                JoonSeok.changeCh("박", 11);
+                JoonSeok.changeCh("이", 11);
                 System.out.println("바뀐 채널: " + CHANNEL[i]);
             }
             TimeUnit.SECONDS.sleep(1);

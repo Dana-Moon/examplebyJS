@@ -2,14 +2,19 @@ package example_0628_promotion;
 
 import java.util.Scanner;
 
-import example_0628_promotion.slime.*;
-import example_0628_promotion.potion.*;
-import example_0628_promotion.warrior.*;
-import example_0628_promotion.warrior.package0005_invenItemOverridingExample.*;
-import example_0628_promotion.package0006_inheritanceExample.*;
-import example_0628_promotion.package0007_sandwich.*;
-
-import example_0628_promotion.package0008_promotionExample.*;
+import example_0628_promotion.package0006_inheritanceExample.DmbCellPhone;
+import example_0628_promotion.package0007_sandwich.abocadosand;
+import example_0628_promotion.package0007_sandwich.baconsand;
+import example_0628_promotion.package0007_sandwich.childClass_sandwich_anotherPackage;
+import example_0628_promotion.package0007_sandwich.pumkinsand;
+import example_0628_promotion.package0008_promotionExample.child;
+import example_0628_promotion.package0008_promotionExample.parent;
+import example_0628_promotion.potion.RedPotion;
+import example_0628_promotion.slime.RedSlime;
+import example_0628_promotion.slime.slime;
+import example_0628_promotion.warrior.Warrior;
+import example_0628_promotion.warrior.package0005_invenItemOverridingExample.WeaponLance001;
+import example_0628_promotion.warrior.package0005_invenItemOverridingExample.WeaponLong001;
 
 public class main {
 
