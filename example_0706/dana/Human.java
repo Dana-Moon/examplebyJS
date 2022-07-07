@@ -2,6 +2,7 @@ package example_0706.dana;
 
 public class Human {
     public static Choose mangojelly = new MangoJelly();
+    public static MangoJelly mango = new MangoJelly();
     public static Choose grapejelly = new GrapeJelly();
     public static Choose strawberryjelly = new StrawberryJelly();
 
@@ -19,6 +20,7 @@ public class Human {
     public static void HumanJelly() {
         mangojelly.choice(Human[0]);
         mangojelly2.eat(Human[0]);
+        mango.choice(Human[0]);
         grapejelly.choice(Human[1]);
         grapejelly2.eat(Human[1]);
         strawberryjelly.choice(Human[2]);
