@@ -23,17 +23,21 @@ public class SmartTelevision implements RemoteControl, Searchable {
 	}
 
 	public void search(String url) {
-		int channel = Integer.parseInt(url);
-
-		if (channel < 15) {
-			System.out.println("10채널로 변경됩니다.");
-		} else if (channel < 22) {
-			System.out.println("20채널로 변경됩니다.");
-		} else if (channel < 72) {
-			System.out.println("25채널로 변경됩니다.");
-		} else {
-			System.out.println("120채널로 변경됩니다.");
-		}
-
+		System.out.println(url + "을 검색합니다.");
 	}
+
+//	public void search(String url) {
+//		int channel = Integer.parseInt(url);
+//
+//		if (channel < 15) {
+//			System.out.println("10채널로 변경됩니다.");
+//		} else if (channel < 22) {
+//			System.out.println("20채널로 변경됩니다.");
+//		} else if (channel < 72) {
+//			System.out.println("25채널로 변경됩니다.");
+//		} else {
+//			System.out.println("120채널로 변경됩니다.");
+//		}
+//
+//	}
 }

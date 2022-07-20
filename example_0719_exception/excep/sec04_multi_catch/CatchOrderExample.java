@@ -1,10 +1,11 @@
 package example_0719_exception.excep.sec04_multi_catch;
 
 public class CatchOrderExample {
-	public static void main(String[] args) {
+	public static void methodB(){
 		try {
-			String data1 = args[0];
-			String data2 = args[1];
+			String[] arg = {"1", "2", "3"};
+			String data1 = arg[0];
+			String data2 = arg[1];
 			int value1 = Integer.parseInt(data1);
 			int value2 = Integer.parseInt(data2);
 			int result = value1 + value2;

@@ -1,6 +1,7 @@
 package example_0719_exception.excep.sec07_user_define_exception;
 
 public class Account {
+	//long 8byte(자바만 유일하게 8byte인 것으로 알고 있다.)
 	private long balance;
 
 	public Account() { }	
